@@ -16,6 +16,8 @@ for coordinates in [[38.2, -99.1], [39.2, -97.1]]:
                                icon=folium.Icon(color='green')
                                ))
 
+
+print('from map1.py printing the coordinates ---> ', coordinates)
 map.add_child(fg)
 
 map.save(filename)
