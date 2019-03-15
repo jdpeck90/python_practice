@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  color: #444;
+}
+
+header {
+  background: ;
+}
+h2 {
+    font-size: 3em;
+    margin-top: 40xp;
+    text-align: center;
+    letter-spacing:-2px;
+}
+h3 {
+  float: right;
+  margin-top: 8px;
+}
+
+.menu li {
+  display: inline;
+}
+
+.menu li + li {
+  margin-left: 4px;
+}
+
+div.about {
+    padding: 10px 0 30px 0;
+    background-color:#E6E6FA
+    border-radium: 6px;
+}
+
+
+
+.menu li + li {
+}
+
+.menu li a {
+  color: #444;
+  text-decoration: none;
+}
